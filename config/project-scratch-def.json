@@ -1,7 +1,8 @@
 {
-  "orgName": "dennisgrzyb company",
+  "orgName": "Demo company",
   "edition": "Developer",
   "features": ["EnableSetPasswordInApi"],
+  "language" : "en_US",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
@@ -11,3 +12,4 @@
     }
   }
 }
+
