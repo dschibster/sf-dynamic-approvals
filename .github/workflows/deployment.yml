@@ -3,12 +3,12 @@ name: Code Coverage and Release
 on:
     push:
         branches:
-            - master
+            - main
         paths:
             - "source/**"
     pull_request:
         branches:
-            - master
+            - main
         paths:
             - "source/**"
 
