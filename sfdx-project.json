@@ -2,7 +2,7 @@
     "packageDirectories": [
         {
             "path": "app",
-            "package": "SF Dynamic Approvlas",
+            "package": "SF Dynamic Approvals",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
@@ -13,6 +13,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "54.0",
     "packageAliases": {
-        "SF Dynamic Approvlas": "0Ho09000000sYAsCAM"
+        "SF Dynamic Approvals": "0Ho09000000sYAsCAM"
     }
 }

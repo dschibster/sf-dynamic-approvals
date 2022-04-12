@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>List</customSettingsType>
+    <description>This custom setting is filled with a value for each record that is currently in the process of being approved. Used in validations to prevent editing as if the record was actually part of an approval process.</description>
+    <enableFeeds>false</enableFeeds>
+    <label>Approval Lock</label>
+    <visibility>Public</visibility>
+</CustomObject>

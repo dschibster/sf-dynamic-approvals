@@ -1,0 +1,5 @@
+Custom Metadata Type "Approver" mit User Id, Queue Id oder einer anderen art von User Id retrieval (SOQL)
+Custom Metadata Type "Step" mit Condition, die für den Eintritt notwendig ist und einer Zuweisung zum Approver, und Zuweisung des Modus (FCFS, Unanimous) 
+Custom Metadata Type "Approval Action" mit Email Message oder Field Update (ähnlich wie normales Approval)
+Custom Metadata Type "Approval Process", mit untertyp (Step), welcher die Condition, eine Zahl, und den Approver hatten
+        Der Process hat eine Reihenfolge der Steps [(1,2)-(3)-(4,5)]
